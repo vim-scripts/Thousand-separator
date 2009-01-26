@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2525
+
+Vim script to put thousand separator in between numbers to make them more readable. E.g. 125668899 => 125 668 899 
+
